@@ -1,0 +1,179 @@
+USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         1  0.0  0.1 182052  4776 ?        Ss   Oct12   0:01 /sbin/init
+root         2  0.0  0.0      0     0 ?        S    Oct12   0:00 [kthreadd]
+root         3  0.0  0.0      0     0 ?        S    Oct12   0:13 [ksoftirqd/0]
+root         5  0.0  0.0      0     0 ?        S<   Oct12   0:00 [kworker/0:0H]
+root         7  0.0  0.0      0     0 ?        S    Oct12   0:21 [rcu_preempt]
+root         8  0.0  0.0      0     0 ?        S    Oct12   0:00 [rcu_sched]
+root         9  0.0  0.0      0     0 ?        S    Oct12   0:00 [rcu_bh]
+root        10  0.0  0.0      0     0 ?        S    Oct12   0:00 [migration/0]
+root        11  0.0  0.0      0     0 ?        S    Oct12   0:00 [watchdog/0]
+root        12  0.0  0.0      0     0 ?        S    Oct12   0:00 [watchdog/1]
+root        13  0.0  0.0      0     0 ?        S    Oct12   0:00 [migration/1]
+root        14  0.0  0.0      0     0 ?        S    Oct12   0:08 [ksoftirqd/1]
+root        16  0.0  0.0      0     0 ?        S<   Oct12   0:00 [kworker/1:0H]
+root        17  0.0  0.0      0     0 ?        S    Oct12   0:00 [watchdog/2]
+root        18  0.0  0.0      0     0 ?        S    Oct12   0:00 [migration/2]
+root        19  0.0  0.0      0     0 ?        S    Oct12   0:09 [ksoftirqd/2]
+root        21  0.0  0.0      0     0 ?        S<   Oct12   0:00 [kworker/2:0H]
+root        22  0.0  0.0      0     0 ?        S    Oct12   0:00 [watchdog/3]
+root        23  0.0  0.0      0     0 ?        S    Oct12   0:00 [migration/3]
+root        24  0.0  0.0      0     0 ?        S    Oct12   0:08 [ksoftirqd/3]
+root        26  0.0  0.0      0     0 ?        S<   Oct12   0:00 [kworker/3:0H]
+root        27  0.0  0.0      0     0 ?        S<   Oct12   0:00 [khelper]
+root        28  0.0  0.0      0     0 ?        S    Oct12   0:00 [kdevtmpfs]
+root        29  0.0  0.0      0     0 ?        S<   Oct12   0:00 [netns]
+root        30  0.0  0.0      0     0 ?        S<   Oct12   0:00 [perf]
+root        31  0.0  0.0      0     0 ?        S    Oct12   0:00 [khungtaskd]
+root        32  0.0  0.0      0     0 ?        S<   Oct12   0:00 [writeback]
+root        33  0.0  0.0      0     0 ?        SN   Oct12   0:00 [ksmd]
+root        34  0.0  0.0      0     0 ?        SN   Oct12   0:05 [khugepaged]
+root        35  0.0  0.0      0     0 ?        S<   Oct12   0:00 [crypto]
+root        36  0.0  0.0      0     0 ?        S<   Oct12   0:00 [kintegrityd]
+root        37  0.0  0.0      0     0 ?        S<   Oct12   0:00 [bioset]
+root        38  0.0  0.0      0     0 ?        S<   Oct12   0:00 [kblockd]
+root        39  0.0  0.0      0     0 ?        S<   Oct12   0:00 [devfreq_wq]
+root        41  0.0  0.0      0     0 ?        S    Oct12   0:01 [kswapd0]
+root        42  0.0  0.0      0     0 ?        S    Oct12   0:00 [fsnotify_mark]
+root        48  0.0  0.0      0     0 ?        S<   Oct12   0:00 [kthrotld]
+root        52  0.0  0.0      0     0 ?        S<   Oct12   0:00 [ipv6_addrconf]
+root        54  0.0  0.0      0     0 ?        S<   Oct12   0:00 [deferwq]
+root        96  0.0  0.0      0     0 ?        S<   Oct12   0:00 [ata_sff]
+root       101  0.0  0.0      0     0 ?        S    Oct12   0:00 [scsi_eh_0]
+root       102  0.0  0.0      0     0 ?        S<   Oct12   0:00 [scsi_tmf_0]
+root       103  0.0  0.0      0     0 ?        S    Oct12   0:00 [scsi_eh_1]
+root       104  0.0  0.0      0     0 ?        S<   Oct12   0:00 [scsi_tmf_1]
+root       105  0.0  0.0      0     0 ?        S    Oct12   0:00 [scsi_eh_2]
+root       106  0.0  0.0      0     0 ?        S<   Oct12   0:00 [scsi_tmf_2]
+root       107  0.0  0.0      0     0 ?        S    Oct12   0:00 [scsi_eh_3]
+root       108  0.0  0.0      0     0 ?        S<   Oct12   0:00 [scsi_tmf_3]
+root       109  0.0  0.0      0     0 ?        S    Oct12   0:00 [scsi_eh_4]
+root       110  0.0  0.0      0     0 ?        S<   Oct12   0:00 [scsi_tmf_4]
+root       111  0.0  0.0      0     0 ?        S    Oct12   0:00 [scsi_eh_5]
+root       112  0.0  0.0      0     0 ?        S<   Oct12   0:00 [scsi_tmf_5]
+root       127  0.0  0.0      0     0 ?        S<   Oct12   0:01 [kworker/0:1H]
+root       146  0.0  0.0      0     0 ?        S    Oct12   0:00 [jbd2/sda2-8]
+root       147  0.0  0.0      0     0 ?        S<   Oct12   0:00 [ext4-rsv-conver]
+root       164  0.0  0.0      0     0 ?        S<   Oct12   0:00 [kworker/1:1H]
+root       165  0.0  0.0      0     0 ?        S<   Oct12   0:00 [kworker/2:1H]
+root       166  0.0  0.0      0     0 ?        S<   Oct12   0:00 [kworker/3:1H]
+root       177  0.6  0.3 255448 13088 ?        Ss   Oct12  10:13 /usr/lib/systemd/systemd-journald
+root       207  0.0  0.0  36472  2732 ?        Ss   Oct12   0:01 /usr/lib/systemd/systemd-udevd
+root       225  0.0  0.0      0     0 ?        S<   Oct12   0:00 [acpi_thermal_pm]
+root       232  0.0  0.0      0     0 ?        S<   Oct12   0:00 [cfg80211]
+root       237  0.0  0.0      0     0 ?        S    Oct12   1:19 [irq/35-iwlwifi]
+root       253  0.0  0.0      0     0 ?        S<   Oct12   0:00 [kpsmoused]
+root       283  0.0  0.0      0     0 ?        S<   Oct12   0:00 [iwlwifi]
+root       322  0.0  0.0      0     0 ?        S<   Oct12   0:00 [kvm-irqfd-clean]
+troon      394  0.0  0.1  62892  5556 ?        S    Oct12   0:00 /usr/lib/GConf/gconfd-2
+root       411  0.0  0.0      0     0 ?        S    Oct12   0:00 [jbd2/sda1-8]
+root       412  0.0  0.0      0     0 ?        S<   Oct12   0:00 [ext4-rsv-conver]
+root       424  0.0  0.0      0     0 ?        S    Oct12   0:01 [jbd2/sda4-8]
+root       425  0.0  0.0      0     0 ?        S<   Oct12   0:00 [ext4-rsv-conver]
+root       432  0.0  0.0  15392  2328 ?        Ss   Oct12   0:00 /usr/lib/systemd/systemd-logind
+dbus       433  0.0  0.0  37400  3924 ?        Ss   Oct12   0:45 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation
+root       438  0.0  0.2 156876  8452 ?        Ss   Oct12   0:00 /usr/bin/slim -nodaemon
+root       441  0.0  0.0   8196  1576 tty1     Ss+  Oct12   0:00 /sbin/agetty --noclear tty1 linux
+root       450  0.6  3.0 412180 119236 tty7    Ssl+ Oct12  10:56 /usr/lib/xorg-server/Xorg -nolisten tcp vt07 -auth /var/run/slim.auth
+troon      463  0.0  0.1  36012  4028 ?        Ss   Oct12   0:00 /usr/lib/systemd/systemd --user
+troon      464  0.0  0.0  96800   300 ?        S    Oct12   0:00 (sd-pam)
+troon      467  0.0  0.0  13868  2660 ?        S    Oct12   0:00 /bin/sh /etc/xdg/xfce4/xinitrc -- /etc/X11/xinit/xserverrc
+troon      513  1.3  0.0  37264  3892 ?        Ss   Oct12  21:47 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation
+troon      526  0.0  0.3 432144 12616 ?        Sl   Oct12   0:03 dunst
+troon      534  0.0  0.5 393080 21460 ?        Sl   Oct12   0:07 xfce4-session
+polkitd    539  0.0  0.4 519480 17384 ?        Ssl  Oct12   0:00 /usr/lib/polkit-1/polkitd --no-debug
+troon      547  0.0  0.1  54664  4624 ?        S    Oct12   0:00 /usr/lib/xfce4/xfconf/xfconfd
+troon      550  0.0  0.0  13312    68 ?        Ss   Oct12   0:00 /usr/bin/ssh-agent -s
+troon      552  0.0  0.0 165344   168 ?        Ss   Oct12   0:01 /usr/bin/gpg-agent --sh --daemon --write-env-file /home/troon/.cache/gpg-agent-info
+troon      554  0.0  0.1 219448  6340 ?        Sl   Oct12   0:00 /usr/lib/gvfs/gvfsd
+troon      558  0.0  0.2 366488  8096 ?        Sl   Oct12   0:00 /usr/lib/gvfs/gvfsd-fuse /run/user/1000/gvfs -f -o big_writes
+troon      573  0.1  0.5 227392 21604 ?        S    Oct12   1:44 xfwm4 --display :0.0 --sm-client-id 2f5ff945e-9a99-4915-a990-f8fc4d99c70b
+troon      576  0.0  0.8 425996 34412 ?        Sl   Oct12   0:21 xfce4-panel --display :0.0 --sm-client-id 273acca4c-4475-4208-98a2-6c5b29b7dd76
+troon      577  0.0  0.3 382020 14868 ?        Ssl  Oct12   0:02 xfsettingsd --display :0.0 --sm-client-id 256dffc10-90e7-42c5-8b63-413ef7123806
+troon      582  0.0  1.0 571460 42652 ?        Sl   Oct12   0:10 xfdesktop --display :0.0 --sm-client-id 29a872993-a5b2-424e-9064-d386a1448895
+troon      590  0.0  0.3 300208 15356 ?        Ssl  Oct12   0:01 xfce4-power-manager --restart --sm-client-id 215e3c516-01a1-4494-a7a2-df72856bf954
+troon      594  0.0  0.8 443124 35528 ?        Sl   Oct12   0:00 nm-applet
+troon      598  0.0  0.1  54760  4868 ?        S    Oct12   0:07 xscreensaver -no-splash
+troon      599  0.0  0.3 213024 13924 ?        S    Oct12   0:00 /usr/lib/xfce4/panel/wrapper-1.0 /usr/lib/xfce4/panel/plugins/libsystray.so 6 14680091 systray Notification Area Area where notification icons appear
+troon      602  0.0  0.6 322652 25492 ?        Sl   Oct12   0:00 /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1
+troon      604  0.0  0.3 212712 13368 ?        Ss   Oct12   0:00 xfce4-power-manager
+troon      614  0.0  0.1 263840  5540 ?        Sl   Oct12   0:00 /usr/lib/at-spi2-core/at-spi-bus-launcher
+root       618  0.0  0.2 300308 10804 ?        Ssl  Oct12   0:01 /usr/lib/upower/upowerd
+troon      643  0.0  0.0  36684  3264 ?        S    Oct12   0:01 /usr/bin/dbus-daemon --config-file=/etc/at-spi2/accessibility.conf --nofork --print-address 3
+troon      652  0.0  0.1 142324  5284 ?        Sl   Oct12   0:06 /usr/lib/at-spi2-core/at-spi2-registryd --use-gnome-session
+troon      658  0.0  0.2 456612 11096 ?        Sl   Oct12   0:00 /usr/lib/gvfs/gvfs-udisks2-volume-monitor
+root       660  0.0  0.1 430644  7888 ?        Ssl  Oct12   0:08 /usr/lib/udisks2/udisksd --no-debug
+troon      669  0.0  0.2 305504 10956 ?        Sl   Oct12   0:00 /usr/lib/gvfs/gvfs-afc-volume-monitor
+troon      930  0.0  0.0  22240  3156 ?        Ss   Oct12   0:27 tmux -2 -f /usr/share/byobu/profiles/tmuxrc new-session -n - /usr/bin/byobu-shell
+troon      942  0.0  0.1  42124  6244 pts/2    Ss   Oct12   0:00 /bin/zsh
+root      1617  0.0  0.1  70288  5072 pts/2    S    Oct12   0:00 sudo -i
+root      1656  0.0  0.1  17184  4884 pts/2    S    Oct12   0:00 -bash
+root      1998  0.0  0.3 282744 14808 ?        S    Oct12   1:32 /usr/bin/python2 -O /usr/share/wicd/daemon/wicd-daemon.py
+root      2017  0.0  0.3 130348 15696 ?        S    Oct12   0:33 /usr/bin/python2 -O /usr/share/wicd/daemon/monitor.py
+troon     2378  0.0  0.2 145192  9048 ?        Sl   Oct12   0:00 /usr/lib/gvfs/gvfsd-metadata
+root      4056  0.0  0.0      0     0 ?        S    11:14   0:00 [irq/31-mei_me]
+root      4057  0.0  0.0      0     0 ?        S    11:14   0:00 [irq/18-mmc0]
+root      4059  0.0  0.0      0     0 ?        S<   11:14   0:00 [kworker/u17:0]
+root      4060  0.0  0.0      0     0 ?        S<   11:14   0:00 [hci0]
+root      4061  0.0  0.0      0     0 ?        S<   11:14   0:00 [hci0]
+root      4063  0.0  0.0      0     0 ?        S<   11:14   0:00 [kworker/u17:2]
+troon     4790  0.2  1.2 1299316 49800 ?       Sl   11:20   0:20 /usr/bin/nautilus
+root      5090  0.0  0.0      0     0 ?        S    11:24   0:00 [scsi_eh_7]
+root      5092  0.0  0.0      0     0 ?        S<   11:24   0:00 [scsi_tmf_7]
+root      5093  0.0  0.0      0     0 ?        S    11:24   0:02 [usb-storage]
+root      5252  0.0  0.0      0     0 ?        S    11:25   0:00 [kworker/2:1]
+root      5610  0.0  0.0  47356  3460 ?        Ss   11:28   0:00 wpa_supplicant -B -i wlo1 -c /var/lib/wicd/configurations/8057193078df -Dwext
+root      5612  0.0  0.0      0     0 ?        S    11:28   0:00 [kworker/3:3]
+root      5660  0.0  0.0   6576  1984 ?        Ss   11:29   0:00 /usr/bin/dhcpcd --noipv4ll wlo1
+root      5672  0.0  0.0      0     0 ?        S    11:29   0:02 [kworker/0:0]
+troon     5721  0.5  2.1 1659012 83760 ?       Rl   11:30   0:41 /usr/lib/virtualbox/VirtualBox
+troon     5737  0.3  0.2 154312  9368 ?        R    11:30   0:26 /usr/lib/virtualbox/VBoxXPCOMIPCD
+troon     5743  0.6  0.4 536780 19492 ?        Sl   11:30   0:50 /usr/lib/virtualbox/VBoxSVC --auto-shutdown
+root      5804  0.0  0.0      0     0 ?        S<   11:30   0:00 [iprt-VBoxWQueue]
+root      5805  0.0  0.0      0     0 ?        S    11:30   0:00 [iprt-VBoxTscThr]
+troon     5992  8.9 20.2 2703880 803208 ?      RLl  11:32  11:31 /usr/lib/virtualbox/VirtualBox --comment BackBox --startvm 543fd571-841d-4bc7-9fe6-3f6a629c8304 --no-startvm-errormsgbox
+root      7211  0.0  1.0 276124 42272 pts/2    S+   Oct12   0:15 /usr/bin/python2 -O /usr/share/wicd/gtk/wicd-client.py
+root      7996  0.0  0.0      0     0 ?        S    12:21   0:00 [kworker/0:1]
+troon     9498  3.2  4.8 965404 191060 ?       Sl   12:59   1:20 /usr/lib/chromium/chromium
+troon     9500  0.0  0.0   6360   836 ?        S    12:59   0:00 /usr/lib/chromium/chrome-sandbox /usr/lib/chromium/chromium --type=zygote
+troon     9501  0.0  0.9 458400 39396 ?        S    12:59   0:00 /usr/lib/chromium/chromium --type=zygote
+troon     9503  0.0  0.0   6360   892 ?        S    12:59   0:00 /usr/lib/chromium/chrome-sandbox /usr/lib/chromium/nacl_helper
+troon     9504  0.0  0.2 178092  9884 ?        S    12:59   0:00 /usr/lib/chromium/nacl_helper
+troon     9506  0.0  0.3 466596 13816 ?        S    12:59   0:00 /usr/lib/chromium/chromium --type=zygote
+troon     9525  1.1  3.9 630236 156240 ?       Sl   12:59   0:28 /usr/lib/chromium/chromium --type=gpu-process --channel=9498.0.69233438 --supports-dual-gpus=false --gpu-driver-bug-workarounds=2,45,57 --disable-gl-extensions=GL_ARB_occlusion_query GL_ARB_occlusion_query2 --disable-accelerated-video-decode --gpu-vendor-id=0x8086 --gpu-device-id=0x0126 --gpu-driver-vendor --gpu-driver-version --v8-natives-passed-by-fd --v8-snapshot-passed-by-fd
+troon     9537  0.0  0.4 481752 15920 ?        S    12:59   0:00 /usr/lib/chromium/chromium --type=gpu-broker
+root      9644  0.0  0.0      0     0 ?        S    13:00   0:01 [kworker/u16:0]
+root      9911  0.0  0.0      0     0 ?        S    13:07   0:00 [kworker/3:1]
+root      9914  0.0  0.0      0     0 ?        S    13:07   0:00 [kworker/1:2]
+troon    10035  0.6  3.6 969276 144608 ?       SNl  13:08   0:12 /usr/lib/chromium/chromium --type=renderer --lang=en-US --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --enable-delegated-renderer --num-raster-threads=2 --gpu-rasterization-msaa-sample-count=8 --content-image-texture-target=3553 --video-image-texture-target=3553 --disable-accelerated-video-decode --channel=9498.7.160761006 --v8-natives-passed-by-fd --v8-snapshot-passed-by-fd
+troon    10091  0.0  0.1 200328  5604 ?        Sl   13:08   0:00 /usr/lib/libreoffice/program/oosplash --impress file:///home/troon/Desktop/Trainings/Oshwal-Linux/odp/0.%20Introduction-to-Git.odp
+troon    10109  0.1  4.9 1140760 197292 ?      Sl   13:08   0:02 /usr/lib/libreoffice/program/soffice.bin --impress file:///home/troon/Desktop/Trainings/Oshwal-Linux/odp/0.%20Introduction-to-Git.odp --splash-pipe=5
+troon    10128  0.8  3.2 943872 128860 ?       Sl   13:09   0:16 /usr/lib/chromium/chromium --type=renderer --lang=en-US --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --enable-delegated-renderer --num-raster-threads=2 --gpu-rasterization-msaa-sample-count=8 --content-image-texture-target=3553 --video-image-texture-target=3553 --disable-accelerated-video-decode --channel=9498.8.76720378 --v8-natives-passed-by-fd --v8-snapshot-passed-by-fd
+troon    11586  0.0  0.2 451776 10036 ?        Sl   Oct12   0:00 /usr/lib/gvfs/gvfsd-trash --spawner :1.6 /org/gtk/gvfs/exec_spaw/0
+troon    11613  0.0  0.1 293060  5700 ?        Sl   Oct12   0:00 /usr/lib/gvfs/gvfsd-burn --spawner :1.6 /org/gtk/gvfs/exec_spaw/1
+root     12039  0.0  0.0      0     0 ?        S    13:26   0:00 [kworker/u16:3]
+troon    12101  0.0  0.1 303980  7328 ?        Sl   Oct12   0:00 /usr/lib/gvfs/gvfsd-network --spawner :1.6 /org/gtk/gvfs/exec_spaw/2
+troon    12105  0.0  0.2 310724  9208 ?        Sl   Oct12   0:00 /usr/lib/gvfs/gvfsd-dnssd --spawner :1.6 /org/gtk/gvfs/exec_spaw/3
+avahi    12107  0.0  0.0  43176  3392 ?        Ss   Oct12   0:00 avahi-daemon: running [linux.local]
+avahi    12108  0.0  0.0  43048   300 ?        S    Oct12   0:00 avahi-daemon: chroot helper
+root     13393  0.0  0.0      0     0 ?        S    13:31   0:00 [kworker/u16:1]
+troon    14224  0.0  0.1 176224  4604 ?        Sl   Oct12   0:00 /usr/lib/dconf/dconf-service
+troon    15363  3.4  2.7 919280 108104 ?       Sl   13:37   0:07 /usr/lib/chromium/chromium --type=renderer --lang=en-US --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --enable-delegated-renderer --num-raster-threads=2 --gpu-rasterization-msaa-sample-count=8 --content-image-texture-target=3553 --video-image-texture-target=3553 --disable-accelerated-video-decode --channel=9498.18.162154788 --v8-natives-passed-by-fd --v8-snapshot-passed-by-fd
+root     15433  0.0  0.0      0     0 ?        S    13:38   0:00 [kworker/u16:2]
+troon    16026  0.0  0.0  36704  3452 pts/3    R+   13:40   0:00 ps aux
+root     21167  0.0  0.0      0     0 ?        S    06:28   0:00 [kworker/2:0]
+troon    21199  0.0  0.6 444004 24148 ?        Sl   06:29   0:03 /usr/bin/xfce4-terminal
+troon    21203  0.0  0.0   8376  1408 ?        S    06:29   0:00 gnome-pty-helper
+troon    21204  0.0  0.1  45128  7336 pts/0    Ss+  06:29   0:00 zsh
+troon    22291  0.0  0.1  42200  6304 pts/1    Ss   06:31   0:00 zsh
+root     22559  0.0  0.1  70288  5044 pts/1    S    06:31   0:00 sudo -i
+root     22560  0.0  0.1  17064  4756 pts/1    S    06:31   0:00 -bash
+root     22566  0.0  0.1  41820  6156 pts/1    S+   06:31   0:00 zsh
+troon    25062  0.0  0.1  45036  7356 pts/3    Ss   07:06   0:02 zsh
+troon    26064  0.0  0.8 677292 33380 ?        Sl   07:10   0:00 /usr/lib/gnome-online-accounts/goa-daemon
+troon    26067  0.0  0.4 383588 16880 ?        Sl   07:10   0:02 /usr/lib/tracker/tracker-store
+root     26088  0.0  0.0      0     0 ?        S    07:10   0:00 [kworker/1:1]
+troon    28006  0.0  0.3 406204 15732 ?        Sl   07:33   0:00 /usr/lib/gvfs/gvfsd-http --spawner :1.6 /org/gtk/gvfs/exec_spaw/6
+troon    29138  0.0  0.5 523140 22456 ?        Sl   07:53   0:00 xfce4-appfinder --collapsed
+troon    29147  0.1  2.1 1355552 85432 ?       Ssl  07:53   0:22 sublime
+troon    31313  0.0  0.1 256804  5280 ?        Ssl  Oct12   0:00 ifuse /home/troon/ipod
